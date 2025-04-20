@@ -1,4 +1,10 @@
 package com.hexaware.fms.util;
+/**
+ * Authors: Niranjana J and Nandhana V
+ * Description: Utility class to manage database connections.
+ * Date: 2025-04-19
+ */
+
 
 import java.io.IOException;
 import java.sql.Connection;

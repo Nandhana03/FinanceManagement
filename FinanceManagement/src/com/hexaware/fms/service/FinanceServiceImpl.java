@@ -1,4 +1,9 @@
 package com.hexaware.fms.service;
+/**
+ * Author: Nandhana V
+ * Description: Implements business logic for finance management.
+ * Date: 2025-04-20
+ */
 
 import com.hexaware.fms.dao.IFinanceRepository;
 import com.hexaware.fms.dao.FinanceRepositoryImpl;

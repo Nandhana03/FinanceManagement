@@ -14,6 +14,12 @@ import java.util.List;
 public class FinanceRepositoryImpl implements IFinanceRepository {
 
     private final String PROPS_FILE = "db.properties";
+    /**
+     * Author: Niranjana J
+     * Description: Implements data access methods for finance management.
+     * Date: 2025-04-19
+     */
+
 
     @Override
     public boolean createUser(Users user) {

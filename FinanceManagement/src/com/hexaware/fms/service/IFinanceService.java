@@ -1,4 +1,10 @@
 package com.hexaware.fms.service;
+/**
+ * Author: Niranjana J
+ * Description: Interface defining finance service operations.
+ * Date: 2025-04-19
+ */
+
 
 import com.hexaware.fms.entity.Expenses;
 import com.hexaware.fms.entity.Users;

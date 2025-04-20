@@ -1,4 +1,10 @@
 package com.hexaware.fms.entity;
+/**
+ * Author: Niranjana J
+ * Description: Entity class representing expense categories.
+ * Date: 2025-04-19
+ */
+
 
 public class ExpenseCategories {
 	public ExpenseCategories() {
