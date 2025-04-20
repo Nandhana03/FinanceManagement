@@ -1,0 +1,11 @@
+# Ignore db.properties file inside src folder
+FinanceManagement/src/db.properties
+
+# Ignore lib folder
+FinanceManagement/lib/
+
+# Ignore bin folder
+FinanceManagement/bin/
+
+# Optionally, ignore all .properties files globally (if you don't want to track any properties file)
+*.properties
