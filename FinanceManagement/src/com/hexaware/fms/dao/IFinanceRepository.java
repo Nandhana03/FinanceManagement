@@ -1,12 +1,19 @@
 package com.hexaware.fms.dao;
 
 import com.hexaware.fms.entity.Expenses;
+
 import com.hexaware.fms.entity.Users;
 import com.hexaware.fms.exception.ExpenseNotFoundException;
 import com.hexaware.fms.exception.UserNotFoundException;
 
 import java.time.LocalDate;
 import java.util.List;
+/**
+ * Author: Nandhana V
+ * Description: Interface for finance-related repository operations.
+ * Date: 2025-04-20
+ */
+
 
 public interface IFinanceRepository {
 

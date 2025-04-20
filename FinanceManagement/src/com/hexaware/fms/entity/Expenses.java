@@ -1,4 +1,10 @@
 package com.hexaware.fms.entity;
+/**
+ * Author: Nandhana V
+ * Description: Entity class representing user expenses.
+ * Date: 2025-04-20
+ */
+
 
 import java.time.LocalDate;
 

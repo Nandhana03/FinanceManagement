@@ -1,4 +1,9 @@
 package com.hexaware.fms.presentation;
+/**
+ * Authors: Niranjana J and Nandhana V
+ * Description: Entry point for the finance management application.
+ * Date: 2025-04-20
+ */
 
 import com.hexaware.fms.entity.Expenses;
 import com.hexaware.fms.entity.Users;

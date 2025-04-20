@@ -1,4 +1,10 @@
 package com.hexaware.fms.entity;
+/**
+ * Author: Niranjana J
+ * Description: Entity class representing users in the system.
+ * Date: 2025-04-20
+ */
+
 
 public class Users {
 	public Users() {
